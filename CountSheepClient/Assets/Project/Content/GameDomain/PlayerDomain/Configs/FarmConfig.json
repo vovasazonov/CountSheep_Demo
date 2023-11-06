@@ -1,0 +1,277 @@
+﻿{
+  "areas": [
+    {
+      "level": 0,
+      "cost": 0,
+      "amount_animal": 30
+    },
+    {
+      "level": 1,
+      "cost": 100,
+      "amount_animal": 15
+    },
+    {
+      "level": 2,
+      "cost": 999,
+      "amount_animal": 18
+    },
+    {
+      "level": 3,
+      "cost": 5999,
+      "amount_animal": 21
+    },
+    {
+      "level": 4,
+      "cost": 9999,
+      "amount_animal": 25
+    },
+    {
+      "level": 5,
+      "cost": 18900,
+      "amount_animal": 30
+    }
+  ],
+  "animals": [
+    {
+      "id": "Sheep",
+      "parents": [
+      ],
+      "name": "Woolly",
+      "coins_per_click": 1
+    },
+    {
+      "id": "Sheep_0",
+      "parents": [
+        "Sheep",
+        "Sheep"
+      ],
+      "name": "Rambling Horns",
+      "coins_per_click": 2
+    },
+    {
+      "id": "Sheep_5",
+      "parents": [
+        "Sheep_0",
+        "Sheep_0"
+      ],
+      "name": "Magnefleece",
+      "coins_per_click": 6
+    },
+    {
+      "id": "Sheep_1",
+      "parents": [
+        "Sheep_5",
+        "Sheep_5"
+      ],
+      "name": "Foliage Crown",
+      "coins_per_click": 10
+    },
+    {
+      "id": "Sheep_7",
+      "parents": [
+        "Sheep_1",
+        "Sheep_1"
+      ],
+      "name": "Topsey-Turvey",
+      "coins_per_click": 15
+    },
+    {
+      "id": "Sheep_4",
+      "parents": [
+        "Sheep_7",
+        "Sheep_7"
+      ],
+      "name": "Celestial Ewe",
+      "coins_per_click": 30
+    },
+    {
+      "id": "Frosty",
+      "parents": [
+        "Sheep_4",
+        "Sheep_4"
+      ],
+      "name": "Frosty",
+      "coins_per_click": 100
+    },
+    {
+      "id": "PinkSheep",
+      "parents": [
+        "Frosty",
+        "Frosty"
+      ],
+      "name": "Cotton Candy",
+      "coins_per_click": 100
+    },
+    {
+      "id": "Sheep_14",
+      "parents": [
+        "PinkSheep",
+        "PinkSheep"
+      ],
+      "name": "Blossomew",
+      "coins_per_click": 150
+    },
+    {
+      "id": "Sheep_6",
+      "parents": [
+        "Sheep_14",
+        "Sheep_14"
+      ],
+      "name": "Fluffernoggin",
+      "coins_per_click": 200
+    },
+    {
+      "id": "Sheep_9",
+      "parents": [
+        "Sheep_6",
+        "Sheep_6"
+      ],
+      "name": "VerdantVista",
+      "coins_per_click": 250
+    },
+    {
+      "id": "Sheep_11",
+      "parents": [
+        "Sheep_9",
+        "Sheep_9"
+      ],
+      "name": "JoyfulJubilee",
+      "coins_per_click": 300
+    },
+    {
+      "id": "Sheep_13",
+      "parents": [
+        "Sheep_11",
+        "Sheep_11"
+      ],
+      "name": "SakuraSheep",
+      "coins_per_click": 400
+    },
+    {
+      "id": "Sheep_12",
+      "parents": [
+        "Sheep_13",
+        "Sheep_13"
+      ],
+      "name": "Peachblossom",
+      "coins_per_click": 500
+    },
+    {
+      "id": "Sheep_2",
+      "parents": [
+        "Sheep_12",
+        "Sheep_12"
+      ],
+      "name": "Cloudwanderer",
+      "coins_per_click": 600
+    },
+    {
+      "id": "Sheep_3",
+      "parents": [
+        "Sheep_2",
+        "Sheep_2"
+      ],
+      "name": "Spectral Wool",
+      "coins_per_click": 700
+    },
+    {
+      "id": "BrownSheep",
+      "parents": [
+        "Sheep_3",
+        "Sheep_3"
+      ],
+      "name": "Cocoa",
+      "coins_per_click": 1000
+    },
+    {
+      "id": "Sheep_10",
+      "parents": [
+        "BrownSheep",
+        "BrownSheep"
+      ],
+      "name": "Sagewool",
+      "coins_per_click": 1200
+    },
+    {
+      "id": "RainbowRuffle",
+      "parents": [
+        "Sheep_10",
+        "Sheep_10"
+      ],
+      "name": "Rainbow Ruffle",
+      "coins_per_click": 2000
+    },
+    {
+      "id": "Balloon",
+      "parents": [
+        "RainbowRuffle",
+        "RainbowRuffle"
+      ],
+      "name": "Balloon Baa-lloon",
+      "coins_per_click": 3000
+    },
+    {
+      "id": "Starlight",
+      "parents": [
+        "Balloon",
+        "Balloon"
+      ],
+      "name": "Starlight",
+      "coins_per_click": 4000
+    },
+    {
+      "id": "GoldBar",
+      "parents": [
+        "Starlight",
+        "Starlight"
+      ],
+      "name": "Gold Bar",
+      "coins_per_click": 5000
+    },
+    {
+      "id": "Cactus",
+      "parents": [
+        "GoldBar",
+        "GoldBar"
+      ],
+      "name": "Cactus",
+      "coins_per_click": 10000
+    },
+    {
+      "id": "Sheep_8",
+      "parents": [
+        "Cactus",
+        "Cactus"
+      ],
+      "name": "Pumpkin Peek",
+      "coins_per_click": 10000
+    },
+    {
+      "id": "Sheep_15",
+      "parents": [
+        "Sheep_8",
+        "Sheep_8"
+      ],
+      "name": "RubyBerry",
+      "coins_per_click": 10000
+    },
+    {
+      "id": "Whiskers",
+      "parents": [
+        "Sheep_15",
+        "Sheep_15"
+      ],
+      "name": "Whiskers",
+      "coins_per_click": 10000
+    },
+    {
+      "id": "Luna",
+      "parents": [
+        "Whiskers",
+        "Whiskers"
+      ],
+      "name": "Luna",
+      "coins_per_click": 10000
+    }
+  ]
+}

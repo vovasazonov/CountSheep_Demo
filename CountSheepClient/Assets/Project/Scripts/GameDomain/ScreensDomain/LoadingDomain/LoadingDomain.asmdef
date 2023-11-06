@@ -1,0 +1,18 @@
+{
+  "name": "LoadingDomain",
+  "rootNamespace": "",
+  "references": [
+    "GUID:9cadf8c347ec04e9499ce0cda591b607",
+    "GUID:f51ebe6a0ceec4240a699833d6309b23",
+    "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

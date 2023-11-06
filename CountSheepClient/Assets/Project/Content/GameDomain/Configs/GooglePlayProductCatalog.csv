@@ -1,0 +1,7 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+twenty_diamonds,published,managed_by_android,false,en_US;Twenty diamonds;Just twenty diamonds,true,1990000,
+sixty_diamonds,published,managed_by_android,false,en_US;Sixty diamonds;Just sixty diamonds,true,3990000,
+one_hundred_twenty_five_diamonds,published,managed_by_android,false,en_US;One hundred twenty five diamonds;Just one hundred twenty five diamonds,true,8990000,
+two_hundred_and_sixty_diamonds,published,managed_by_android,false,en_US;Two hundred and sixty diamonds;Just two hundred and sixty diamonds,true,17990000,
+seven_hundred_diamonds,published,managed_by_android,false,en_US;Seven hundred diamonds;Just seven hundred diamond,true,47990000,
+one_thousand_five_hundred_diamonds,published,managed_by_android,false,en_US;One thousand five hundred diamonds;Just one thousand five hundred diamonds,true,89990000,

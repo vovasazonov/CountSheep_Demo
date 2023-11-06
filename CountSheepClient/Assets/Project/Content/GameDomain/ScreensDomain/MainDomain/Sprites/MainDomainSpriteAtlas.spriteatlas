@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainDomainSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1e030391647b2a14db1ed96d4cc4a0d6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a5a7d3109e7cd3242ac7e537d546dabd, type: 3}
+  - {fileID: 21300000, guid: 629acc204e5e31e49861b7daf222b30a, type: 3}
+  - {fileID: 21300000, guid: f092c930b052db74cb85018bef224741, type: 3}
+  - {fileID: 21300000, guid: 307a0040d13eee940828ed66c5236f86, type: 3}
+  - {fileID: 21300000, guid: d497798023833a143bd1b3c931863b16, type: 3}
+  - {fileID: 21300000, guid: 727e7b80aebbef34889ef8fe72207599, type: 3}
+  - {fileID: 21300000, guid: 56be2ff0038f3754ba1707cbe1fa7427, type: 3}
+  - {fileID: 21300000, guid: 192d0b11868a8204bbdac099f81e69d3, type: 3}
+  - {fileID: 21300000, guid: 586bbc510355130419856b583de5f61c, type: 3}
+  - {fileID: 21300000, guid: c1138ca14458f9340beedfb7d1e47a9d, type: 3}
+  - {fileID: 21300000, guid: 3ce312d102a1a3340b5cc399c27e7482, type: 3}
+  - {fileID: 21300000, guid: d8baf9c20d3776c42b7ff60edd336d00, type: 3}
+  - {fileID: 21300000, guid: 1503e4f24015ce84ea04ba647daa1f08, type: 3}
+  - {fileID: 21300000, guid: 1519aaf2917686948b724ec7ea863738, type: 3}
+  - {fileID: 21300000, guid: ad935b33333cef6469487aca0102dc97, type: 3}
+  - {fileID: 21300000, guid: 5e8946a3de779ca449b01e7d3f1d9b88, type: 3}
+  - {fileID: 21300000, guid: 46cd93b30c0a51f44b505f232cb10b17, type: 3}
+  - {fileID: 21300000, guid: f7e625d334e48f745a4437303dddcdf5, type: 3}
+  - {fileID: 21300000, guid: 374c950414080a2438db08771413dc39, type: 3}
+  - {fileID: 21300000, guid: cebc1394d3c057a4c909ed6c2b4699c4, type: 3}
+  - {fileID: 21300000, guid: 0ff88bd4614d37f46bcab2926c9149cd, type: 3}
+  - {fileID: 21300000, guid: 379e5c2582ddedf498506f9c8fdaca5a, type: 3}
+  - {fileID: 21300000, guid: 9b246675dda7682438732d08827f0fed, type: 3}
+  - {fileID: 21300000, guid: 627ebf06230eb3f45b453d48c49995ca, type: 3}
+  - {fileID: 21300000, guid: f52c58d61b78bac43813b4ad642aa481, type: 3}
+  - {fileID: 21300000, guid: b68fd0672b4390a43b97fe680ae81a3d, type: 3}
+  - {fileID: 21300000, guid: fce30ff7ca248a3459ff828217ebd46a, type: 3}
+  - {fileID: 21300000, guid: f680de28a7c4cee418a26f730e169e5e, type: 3}
+  - {fileID: 21300000, guid: a2e8bf38580dfc541a3ad40daf711d47, type: 3}
+  - {fileID: 21300000, guid: ec81ab485ec54fa40872ef9ef01a9dd0, type: 3}
+  - {fileID: 21300000, guid: c1cb13193999f664980ef21608eccfe2, type: 3}
+  - {fileID: 21300000, guid: 81ce7e29309ee264db502f54cf145704, type: 3}
+  - {fileID: 21300000, guid: e90a81393bde22f479ef7ff2c735eaf6, type: 3}
+  - {fileID: 21300000, guid: 1d83ea890e3c1a0418eb8ddb2ec1098f, type: 3}
+  - {fileID: 21300000, guid: 06380adac18cec7489575fdd63c1c7ed, type: 3}
+  - {fileID: 21300000, guid: 072d290be869ab34d8799363c425a12f, type: 3}
+  - {fileID: 21300000, guid: 86fd807b2bf992a47a4443e5c0d4bc8f, type: 3}
+  - {fileID: 21300000, guid: 0207137b902cafd48ab9f5f9a910438a, type: 3}
+  - {fileID: 21300000, guid: b2c89b2cf3d97e245a09a7b5dbd0b0a1, type: 3}
+  - {fileID: 21300000, guid: e5b1c0ecf8553b343ab37c2c7bd359a2, type: 3}
+  - {fileID: 21300000, guid: 9e2544ec2628ae847a2307ccccafe201, type: 3}
+  - {fileID: 21300000, guid: 5c52eacde9a954948a9d374f2dc3400f, type: 3}
+  - {fileID: 21300000, guid: 97b7fded8f397634597e8b1b9c15a63a, type: 3}
+  - {fileID: 21300000, guid: 3d73833e28578da468b42660685f0714, type: 3}
+  - {fileID: 21300000, guid: 39114c5ed66b4b747b31cca3ef758eff, type: 3}
+  - {fileID: 21300000, guid: 8a68fb6eb1de4874bb68c7207901e908, type: 3}
+  - {fileID: 21300000, guid: fb4ca1fe83420a54cb64318017b2f300, type: 3}
+  - {fileID: 21300000, guid: e14c928f7acea054fb0518f8fd33467f, type: 3}
+  - {fileID: 21300000, guid: e8d41c9faec99624b8c61eb75ed02546, type: 3}
+  - {fileID: 21300000, guid: ebc053bf887267549af4887b382598ac, type: 3}
+  - {fileID: 21300000, guid: bc3efcdf9af72bb4abd551fb68efa070, type: 3}
+  - {fileID: 21300000, guid: 5c59deef8111a1340a85b4c7e59df729, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - AchievementIcon
+  - gate_tutorial
+  - WatchAdButton
+  - SheepIcon
+  - RestartButton
+  - SheepItemContainter
+  - PauseButton
+  - TutorialHand1
+  - RainbowCoins
+  - Chest
+  - NoAds
+  - BuyAnimalButton 1
+  - MergeButton
+  - ContainerCoinsForMiniBundle
+  - SoundOff
+  - GameOverPopup
+  - BuyAnimalButton
+  - Circle
+  - Offer
+  - BattleButton
+  - full
+  - BundleRed
+  - MusicOn
+  - TutorialArrow
+  - MarketTitle
+  - BuySheepButton
+  - down_sheep_tutorial
+  - MiniContainerForCoinsInBundle
+  - ContainerCoinsForBundle
+  - CoinBar
+  - AddCoinInTopBar
+  - PauseTitle
+  - BuyAnimalButtonMask
+  - CollectionButton
+  - SoundOn
+  - up_sheep_tutorial
+  - coin
+  - GameOverTitle
+  - LeaderBoardIcon
+  - PlayInPauseButton
+  - idle_sheep_tutorial
+  - TutorialHand2
+  - BuyButtonInMarket
+  - PurpleBundle
+  - LeadboardButton
+  - CloseButton
+  - ImportantSign
+  - MiniBundle
+  - WatchAdAreaButton
+  - PausePopup
+  - PlayButton
+  - MusicOff
+  m_RenderDataMap: {}
+  m_Tag: MainDomainSpriteAtlas
+  m_IsVariant: 0

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7cd5103350349988be8d447ed6f3266, type: 3}
+  m_Name: ShopSheepConfig
+  m_EditorClassIdentifier: 
+  Items:
+  - Id: Sheep
+    Cost: 10
+  - Id: Sheep_0
+    Cost: 20
+  - Id: Sheep_5
+    Cost: 60
+  - Id: Sheep_1
+    Cost: 98
+  - Id: Sheep_7
+    Cost: 149
+  - Id: Sheep_4
+    Cost: 299
+  - Id: Frosty
+    Cost: 956
+  - Id: PinkSheep
+    Cost: 1000
+  - Id: Sheep_14
+    Cost: 1500
+  - Id: Sheep_6
+    Cost: 2000
+  - Id: Sheep_9
+    Cost: 2500
+  - Id: Sheep_11
+    Cost: 2999
+  - Id: Sheep_13
+    Cost: 3999
+  - Id: Sheep_12
+    Cost: 5000
+  - Id: Sheep_2
+    Cost: 5999
+  - Id: Sheep_3
+    Cost: 7000
+  - Id: BrownSheep
+    Cost: 9999
+  - Id: Sheep_10
+    Cost: 12000
+  - Id: RainbowRuffle
+    Cost: 20000
+  - Id: Balloon
+    Cost: 30000
+  - Id: Starlight
+    Cost: 40000
+  - Id: GoldBar
+    Cost: 50000
+  - Id: Cactus
+    Cost: 999999
+  - Id: Sheep_8
+    Cost: 999999
+  - Id: Sheep_15
+    Cost: 999999
+  - Id: Whiskers
+    Cost: 999999
+  - Id: Luna
+    Cost: 999999

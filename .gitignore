@@ -1,0 +1,5 @@
+# IntelliJ
+.idea/
+
+# Apple folder atributes file.
+.DS_Store
